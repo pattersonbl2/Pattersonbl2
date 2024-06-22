@@ -4,10 +4,10 @@
 ***
 
 <h2> About Me </h2>
- :moneybag:   1. Currently Working as Cloud Engieer/ Product Support Egineer 
- :blue_book:  2. Learning to be a Site Rabilitty Engieer 
-              3. I have been working in AWS cloud space for 4 years and i am aws cerfified. 
-              4. I have been in applcation development and release managment for the past year 
+ :moneybag:   1. Currently working as a Site Reliability Engineer
+ :blue_book:  2. I am working on my goals to be a senior engineer at mozilla.
+              3. I have been working in the aws space for a while but now mostly working in gcp.
+              4. I have been in applcation development and release managment for the past year. 
               5. Outside of work I am history buff, workout warrior and know a lot random facts. 
 
 
